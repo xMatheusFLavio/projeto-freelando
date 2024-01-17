@@ -27,4 +27,5 @@ Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no se
 ## 📚 Mais informações do projeto
 
 O Freelando é uma StartUP fictícia
+
 A ideia principal desse projeto é evoluir ainda mais os conhecimentos em React e estilização de componentes.
